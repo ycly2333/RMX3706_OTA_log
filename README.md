@@ -6,6 +6,7 @@
 
 更新日志 | MD5 | 下载链接
 -------:|:-------------:|:--------------
+[A.23](https://gauss-compotacostauto-cn.allawnfs.com/remove-b51259f91e3526632afd88e08f8f1cef/component-ota/23/03/07/18b879911dad414686893be2a4e97bcc.html) | 4ba4535e29cf9aa8b06fdf9dca303e67 | [下载直链](https://gauss-componentotacostmanual-cn.allawnfs.com/remove-b51259f91e3526632afd88e08f8f1cef/component-ota/23/03/06/ccc9bc086a104da78f6e7ea992954f52.zip)
 [A.22](https://gauss-compotacostauto-cn.allawnfs.com/remove-b1d6aee24e2945efc6f2c846703d5a46/component-ota/23/03/01/6dacd722f8d549b19c8d0e3998179584.html) | 0d09723eef8487d241ec1d1d49a0b4d5 | [下载直链](https://gauss-componentotacostmanual-cn.allawnfs.com/remove-b1d6aee24e2945efc6f2c846703d5a46/component-ota/23/02/28/1c69110d10a24994a1515d41a4c4fd6b.zip)
 [A.21](https://gauss-compotacostauto-cn.allawnfs.com/remove-4e51edf46c595cc4fc877bb1640d1815/component-ota/23/02/25/24d3f0a365c44cebbef1a56cf4467360.html) | 793cc3cb2a0b03fc0dec7a5ce6ff4d3d | [下载直链](https://gauss-componentotacostmanual-cn.allawnfs.com/remove-4e51edf46c595cc4fc877bb1640d1815/component-ota/23/02/23/d1e0898ff58643d29b8a1a1fa777349d.zip)
 [A.20](https://gauss-compotacostauto-cn.allawnfs.com/remove-564be706441094a3658f4eb90a6ca5eb/component-ota/23/02/17/4ed7e9b76ac342e6ab9537bd74eb1e22.html) | eb6ed39fabd38e14b4ff3c5be2c25511 | [下载直链](https://gauss-componentotacostmanual-cn.allawnfs.com/remove-564be706441094a3658f4eb90a6ca5eb/component-ota/23/02/16/072487e3196044638f3bb50ede1743f0.zip)
