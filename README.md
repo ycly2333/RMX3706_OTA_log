@@ -14,8 +14,5 @@
 [A.19](https://gauss-compotacostauto-cn.allawnfs.com/remove-99c5f21d248ddc92ad4768d5447e9746/component-ota/23/02/15/a35fb870e6794eae9893e500bb1fda5e.html) | d4a18cdaec66e5725bba87e71217416e | [下载直链](https://gauss-componentotacostmanual-cn.allawnfs.com/remove-99c5f21d248ddc92ad4768d5447e9746/component-ota/23/02/14/683ce2109da444f888c79acaf5db5705.zip)
 [A.13](https://gauss-compotacostauto-cn.allawnfs.com/remove-f6b3336769c631516f6d9e60c0151e81/component-ota/23/02/10/a1c570e59fe749c4917d9be2451fb401.html) | 759ee60690d7dbba6847165d7a8af72b | [下载直链](https://gauss-componentotacostmanual-cn.allawnfs.com/remove-f6b3336769c631516f6d9e60c0151e81/component-ota/23/02/06/4b56181a32d44f16935bad82b18be879.zip)
 
-## QQ群
-![qq](realme_ycly.png)
-
 ## 联系方式
 ![coolapk_ycly](coolapk.png)
